@@ -31,7 +31,7 @@ Welcome to the Virtual Trial Room cum Voice Assistant Integration repository! Th
 - Expansion of trial capabilities to furniture and other accessories.
 
 ## Contributors:
-Sanchita Bora: https://github.com/SanchitaBora
-Anshika Singla
-Avneet Kaur
-Bhavna Goyal
+Sanchita Bora: https://github.com/SanchitaBora <br>
+Anshika Singla <br>
+Avneet Kaur <br>
+Bhavna Goyal <br>
