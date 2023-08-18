@@ -32,6 +32,6 @@ Welcome to the Virtual Trial Room cum Voice Assistant Integration repository! Th
 
 ## Contributors:
 Sanchita Bora: https://github.com/SanchitaBora <br>
-Anshika Singla <br>
-Avneet Kaur <br>
+Anshika Singla<br>
+Avneet Kaur: https://github.com/Avneet2007 <br>
 Bhavna Goyal <br>
